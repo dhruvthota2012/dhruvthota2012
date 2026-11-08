@@ -35,4 +35,4 @@ I'm a first-year B.E. CSE student from Hyderabad. I like finding out how systems
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dhruvthota2012&label=PROFILE%20VIEWS&color=0f3d2e&style=for-the-badge)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3d2e,100:0d1117&height=80&section=footer" width="100%"/>![Uploading banner.png…]()
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3d2e,100:0d1117&height=80&section=footer" width="100%"/>
